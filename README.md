@@ -1,6 +1,6 @@
 ---
 title: AI Front End Dev
-emoji: 🐨
+emoji: 🌍
 colorFrom: pink
 colorTo: purple
 sdk: streamlit
