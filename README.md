@@ -1,10 +1,10 @@
 ---
 title: AI Front End Dev
 emoji: 🐨
-colorFrom: yellow
-colorTo: gray
-sdk: gradio
-sdk_version: 6.1.0
+colorFrom: pink
+colorTo: purple
+sdk: streamlit
+sdk_version: 1.46.2
 app_file: app.py
 pinned: false
 license: apache-2.0
