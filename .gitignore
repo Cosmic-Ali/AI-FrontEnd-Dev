@@ -1,0 +1,9 @@
+/.venv
+.env
+app_prototype.py
+website.zip
+/testing
+/.vscode
+*.js
+*.css
+*.html
